@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bureaugewas
 - 👀 I’m interested in platform decentralization
 - 🌱 I’m currently learning Python, Flask & Docker.
-- 💞️ I’m looking to collaborate on Ddist (Decentralized data inferface system)
+- 💞️ I’m looking to collaborate on Ddist (Distributed data inferface system)
 - 📫 How to reach me: bureaugewas@gmail.com
 
 <!---
